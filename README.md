@@ -4,10 +4,8 @@
 <div align="center">
 
   <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=plastic&logo=github)</a>
-  <!-- 
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
-  -->
+  <a href="">[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24995%26project%3D%26in=0)](https://codetime.dev)</a>
+  
 </div>
 
 <h1 align="center">	:trophy: My State </h1>
