@@ -7,7 +7,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kititach&layout=donut)](https://github.com/kititach/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
