@@ -1,8 +1,6 @@
 <h1 align="center">:rainbow: I Am Turk</h1>
 <h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
-# Test
-
 <div align="center">
 
   <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=plastic&logo=github)</a>
