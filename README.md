@@ -3,17 +3,19 @@
 
 <div align="center">
 
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=plastic&logo=github)</a>
+  <!-- 
   <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
   <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
-
+  -->
 </div>
 
 <h1 align="center">	:trophy: My State </h1>
 
-<div align="center">
+<div align="left">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kititach&layout=compact&theme=tokyonight)
 
 </div>
