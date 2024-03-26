@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kititach</h1>
+<h1 align="center">Hi 👋, I'm Turk</h1>
 <h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
 - 👋 Hi, I’m @kititach
@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&bg_color=00000000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
