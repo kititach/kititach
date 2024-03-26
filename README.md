@@ -1,6 +1,16 @@
 <h1 align="center">I Am Turk</h1>
 <h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
+<div align="center">
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+
+<h1 align="center"> My State </h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
