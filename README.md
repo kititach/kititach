@@ -1,4 +1,4 @@
-<h1 align="center">I Am Turk</h1>
+<h1 align="center">:rainbow: I Am Turk</h1>
 <h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
 <div align="center">
@@ -9,9 +9,16 @@
 
 </div>
 
-<h1 align="center"> My State </h1>
+<h1 align="center">	:trophy: My State </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kititach&layout=compact&theme=tokyonight)
+
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
