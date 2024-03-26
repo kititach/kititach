@@ -3,7 +3,9 @@
 
 <div align="center">
 
-  <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=plastic&logo=github)</a>
+  <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=flat)</a>
+  <a href="">[![wakatime](https://wakatime.com/badge/user/018e7506-1468-44f5-b216-dfa29319029f/project/018e7a0d-2ae5-4a7e-be97-b1b43f0a32c9.svg)](https://wakatime.com/badge/user/018e7506-1468-44f5-b216-dfa29319029f/project/018e7a0d-2ae5-4a7e-be97-b1b43f0a32c9)</a>
+  <a href="">[![wakatime](https://wakatime.com/badge/user/018e7506-1468-44f5-b216-dfa29319029f/project/018e7507-5e03-408c-a944-cd439bf9a29c.svg)](https://wakatime.com/badge/user/018e7506-1468-44f5-b216-dfa29319029f/project/018e7507-5e03-408c-a944-cd439bf9a29c)</a>
   <a href="">[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24995%26project%3D%26in=0)](https://codetime.dev)</a>
   
 </div>
