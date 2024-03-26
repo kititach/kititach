@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Turk</h1>
+<h1 align="center">I Am Turk</h1>
 <h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
-- 👋 Hi, I’m @kititach
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kititach&layout=donut)](https://github.com/kititach/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
