@@ -1,5 +1,4 @@
 <h1 align="center">:rainbow: I Am Turk</h1>
-<h3 align="center">จีบเธอไม่ได้ (ขอจีบแม่เธอแทนแล้วกัน)</h3>
 
 <div align="center">
 
@@ -10,18 +9,25 @@
   
 </div>
 
-<h1 align="center">	:trophy: My State </h1>
+<!--- About Me -->
+<h1 align="center">	About Me </h1>
 
-<div align="left">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kititach&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kititach&layout=compact&theme=tokyonight)
-
+<!--- GIF -->
+<div align="center">
+  <img height="300" width="500" src="https://github.com/kititach/kititach/assets/48780839/8213ce6a-a5c9-40a9-b1c5-ad46c336a7f9" />
+  <!---
+    <img align="center" height="300" width="500" src="https://github.com/kititach/kititach/assets/48780839/8213ce6a-a5c9-40a9-b1c5-ad46c336a7f9" />
+  -->
 </div>
 
+<h1 align="center">	:trophy: My State </h1>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kititach&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kititach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+<!--- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kx.turk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kx.turk" height="30" width="40" /></a>
