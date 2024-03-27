@@ -1,5 +1,7 @@
 <h1 align="center">:rainbow: I Am Turk</h1>
 
+
+
 <div align="center">
 
   <a href="">![GitHub followers](https://img.shields.io/github/followers/kititach?style=flat)</a>
@@ -10,7 +12,17 @@
 </div>
 
 <!--- About Me -->
-<h1 align="center">	About Me </h1>
+<h1 align="center">	Talk to me about </h1>
+
+I'm Kititach Kongngam,an App Developer 📱 from Thailand who is passionate about technologies and innovation
+
+* Mobile application development using Flutter
+* Web development-HTML/CSS,Javascript
+* Backend development-Firebase,SQL
+* Data Analytics -Python,R
+* Blockchain- Solidity
+* network security
+* Robotic Process Automation-Blue Prism,Automation Anywhere
 
 <!--- GIF -->
 <div align="center">
