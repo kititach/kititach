@@ -19,8 +19,7 @@ I'm Kititach Kongngam,an App Developer 📱 from Thailand who is passionate abou
 * Mobile application development using Flutter
 * Web development-HTML/CSS,Javascript
 * Backend development-Firebase,SQL
-* Data Analytics -Python,R
-* Blockchain- Solidity
+* Data Analytics Python
 * network security
 * Robotic Process Automation-Blue Prism,Automation Anywhere
 
